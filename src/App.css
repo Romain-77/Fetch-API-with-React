@@ -14,14 +14,15 @@ button {
   padding: 0.5rem 1rem;
   font-size: 1rem;
   cursor: pointer;
-  border: 2px solid #c78117;
+  border: 2px solid lch(1.95% 11.43 311.63);
   border-radius: 4px;
-  background-color: #c7bf17;
+  background-color: #fefefe;
   color: rgb(14, 1, 1);
+  box-shadow: 5px 5px 5px hsl(270, 100%, 2%);
 }
 img {
   border-radius: 50%;
-  border: 2px solid #c78117;
+  border: 2px solid white;
   width: 150px;
   height: 150px;
   object-fit: cover;
